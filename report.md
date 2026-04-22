@@ -133,9 +133,9 @@ PrunableLinear (256 → 10)
 
 | Lambda (λ) | Test Accuracy (%) | Sparsity (%) | Interpretation                      |
 | ---------- | ----------------- | ------------ | ----------------------------------- |
-| 1e-4       | 55.60             | 41.63        | Low pruning pressure, best accuracy |
-| 5e-4       | 55.92             | 43.20        | Slight increase in sparsity         |
-| 1e-3       | 55.85             | 43.31        | Higher pruning, stable accuracy     |
+| 1e-4       | 55.60             | 41.80        | Low pruning pressure, best accuracy |
+| 5e-4       | 55.98             | 43.50        | Slight increase in sparsity         |
+| 1e-3       | 55.90             | 43.38        | Higher pruning, stable accuracy     |
 
 ---
 
