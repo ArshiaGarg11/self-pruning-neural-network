@@ -21,9 +21,9 @@ Since gates are bounded between [0,1], minimizing this term forces many gates to
 
 | Lambda | Test Accuracy (%) | Sparsity (%) |
 | ------ | ----------------- | ------------ |
-| 1e-4   | XX                | XX           |
-| 5e-4   | XX                | XX           |
-| 1e-3   | XX                | XX           |
+| 1e-4   | 55.60             | 41.80        |
+| 5e-4   | 55.98             | 43.50        |
+| 1e-3   | 55.90             | 43.38        |
 
 👉 Observation:
 
